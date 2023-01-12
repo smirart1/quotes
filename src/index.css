@@ -1,0 +1,9 @@
+/*
+?instalar
+npm i -D tailwindcss postcss autoprefixer 
+?crear archivos de configuracion
+npx tailwind init -p  */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
